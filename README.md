@@ -42,8 +42,6 @@ You are required to model the demand for shared bikes with the available indepen
     8. datetime
     9. scipy
 
-* [Conclusions](#conclusions)
-
 
 ## General Information
 - General information about assignment 
